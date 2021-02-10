@@ -179,6 +179,13 @@ button{
   cursor: pointer;
 }
 
+.productGroupDetails{
+  display: flex;
+}
+.productDetails p{
+  margin: 0;
+}
+
 .payment-option{
   height: 64px;
 }
