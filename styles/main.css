@@ -49,8 +49,12 @@ header{
   width: 512px;
 }
 
-.row {
+.topRow {
   display: flex;
+}
+
+.bottomRow{
+  display: Flex;
 }
 
 h1{
